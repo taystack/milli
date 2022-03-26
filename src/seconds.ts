@@ -1,0 +1,1 @@
+export const seconds = (val: number = 1) => val * 1000
